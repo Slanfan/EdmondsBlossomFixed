@@ -1,6 +1,6 @@
 {
-  "name": "edmonds-blossom",
-  "version": "1.0.0",
+  "name": "edmonds-blossom-fixed",
+  "version": "1.0.1",
   "description": "Edmond's weighted maximum matching algorithm (Blossom algorithm) ported from http://jorisvr.nl/maximummatching.html",
   "main": "app/blossom.js",
   "keywords": [
